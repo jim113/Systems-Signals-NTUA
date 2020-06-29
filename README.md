@@ -1,4 +1,4 @@
-# Systems-Signals-NTUA
+## Systems-Signals-NTUA :signal_strength: :signal_strength:
 
 Matlab signal process of audio recorded word 'Δημήτρης'.  
 
